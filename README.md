@@ -7,8 +7,11 @@ GamerBoxD é uma plataforma de análise e revisão de jogos, onde os usuários p
 ## ✅ Recursos
 
 •	Análises Detalhadas: Os usuários podem escrever análises detalhadas sobre os jogos que jogaram, fornecendo uma visão abrangente sobre aspectos como jogabilidade, gráficos, trilha sonora, enredo e muito mais.
+
 •	Sistema de Classificação: Os jogos podem ser classificados por diferentes critérios, como popularidade, gênero, plataforma e ano de lançamento, permitindo uma fácil navegação e descoberta de novos títulos.
+
 •	Comunidade Ativa: Os usuários podem interagir entre si por meio de comentários, discussões e compartilhamento de análises, criando uma comunidade vibrante e engajada de jogadores.
+
 •	Notificações Personalizadas: Os usuários podem configurar notificações personalizadas para receber atualizações sobre novas análises de jogos de seu interesse, mantendo-os atualizados sobre as últimas tendências e lançamentos.
 
 ## 🚀 Tecnologias
