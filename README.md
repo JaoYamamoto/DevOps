@@ -12,7 +12,7 @@ GamerBoxd é uma plataforma de análise e revisão de jogos, onde os usuários p
 
 •	Comunidade Ativa: Os usuários podem interagir entre si por meio de comentários, discussões e compartilhamento de análises, criando uma comunidade vibrante e engajada de jogadores.
 
-•	Notificações Personalizadas: Os usuários podem configurar notificações personalizadas para receber atualizações sobre novas análises de jogos de seu interesse, mantendo-os atualizados sobre as últimas tendências e lançamentos.
+•	Notificações Personalizadas: Os usuários podem configurar notificações personalizadas para receber atualizações sobre novas análises de jogos de seu interesse, mantendo-os atualizados sobre as últimas tendências e lançamentos. 
 
 ## 🚀 Tecnologias
 
