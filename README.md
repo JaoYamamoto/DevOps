@@ -1,5 +1,5 @@
 Descrição:
-GamerBoxD é uma plataforma de análise e revisão de jogos, onde os usuários podem compartilhar suas opiniões, recomendações e críticas sobre diferentes jogos. O objetivo é fornecer uma comunidade online onde os entusiastas de jogos possam descobrir novos títulos, compartilhar experiências e tomar decisões informadas sobre suas compras de jogos. 
+GamerBoxd é uma plataforma de análise e revisão de jogos, onde os usuários podem compartilhar suas opiniões, recomendações e críticas sobre diferentes jogos. O objetivo é fornecer uma comunidade online onde os entusiastas de jogos possam descobrir novos títulos, compartilhar experiências e tomar decisões informadas sobre suas compras de jogos. 
 Recursos:
 •	Análises Detalhadas: Os usuários podem escrever análises detalhadas sobre os jogos que jogaram, fornecendo uma visão abrangente sobre aspectos como jogabilidade, gráficos, trilha sonora, enredo e muito mais.
 •	Sistema de Classificação: Os jogos podem ser classificados por diferentes critérios, como popularidade, gênero, plataforma e ano de lançamento, permitindo uma fácil navegação e descoberta de novos títulos.
