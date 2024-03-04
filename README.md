@@ -18,6 +18,12 @@ GamerBoxd é uma plataforma de análise e revisão de jogos, onde os usuários p
 
 <img src="https://icons.iconarchive.com/icons/pictogrammers/material/128/github-icon.png" width="64" height="64"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/python-icon.png" width="64" height="64"><img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-html-5-icon.png" width="64" height="64"><img src="https://icons.iconarchive.com/icons/martz90/hex/128/css-3-icon.png" width="64" height="64"><img src="https://icons.iconarchive.com/icons/icons8/windows-8/128/Files-Sql-icon.png" width="64" height="64">
 
+- Github
+- Python
+- HTML
+- CSS
+- SQL
+
 ## ❓ Como contribuir
 
 Se você é um entusiasta de jogos e gostaria de contribuir para o GamerBoxd, aqui estão algumas maneiras pelas quais você pode ajudar: 
