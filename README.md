@@ -1,4 +1,4 @@
-<h1 align="center"> GamerBoxd </h1>
+
 
 ## 💬 Descrição
 
@@ -16,7 +16,7 @@ GamerBoxd é uma plataforma de análise e revisão de jogos, onde os usuários p
 
 ## 🚀 Tecnologias
 
-<img src="https://icons.iconarchive.com/icons/pictogrammers/material/128/github-icon.png" width="64" height="64"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/python-icon.png" width="64" height="64"><img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-html-5-icon.png" width="64" height="64"><img src="https://icons.iconarchive.com/icons/martz90/hex/128/css-3-icon.png" width="64" height="64"><img src="https://icons.iconarchive.com/icons/icons8/windows-8/128/Files-Sql-icon.png" width="64" height="64">
+<img src="https://icons.iconarchive.com/icons/pictogrammers/material/128/github-icon.png" alt="Logo do GitHub" width="64" height="64"><img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/python-icon.png" alt="logo do Python" width="64" height="64"><img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Other-html-5-icon.png" alt="logo do HTML5" width="64" height="64"><img src="https://icons.iconarchive.com/icons/martz90/hex/128/css-3-icon.png" alt="Logo do CSS" width="64" height="64"><img src="https://icons.iconarchive.com/icons/icons8/windows-8/128/Files-Sql-icon.png" alt="Logo do SQL" width="64" height="64">
 
 - Github
 - Python
@@ -33,5 +33,5 @@ Se você é um entusiasta de jogos e gostaria de contribuir para o GamerBoxd, aq
 
 ## 📌 Autores
 
-| [<img loading="lazy" src="https://github.com/guisatoru/first_kotlin_project/assets/126101172/7b7850db-8c2d-4494-b8df-d9c4a4ee86d5" width=115><br><sub>Guilherme Satoru</sub>](https://github.com/guisatoru) | [<img loading="lazy" src="https://github.com/guisatoru/first_kotlin_project/assets/126101172/7b7850db-8c2d-4494-b8df-d9c4a4ee86d5" width=115><br><sub>Eduardo Osterloh</sub>](https://github.com/guisatoru) | [<img loading="lazy" src="https://github.com/guisatoru/first_kotlin_project/assets/126101172/7b7850db-8c2d-4494-b8df-d9c4a4ee86d5" width=115><br><sub>Felipe Martins</sub>](https://github.com/guisatoru) | [<img loading="lazy" src="https://github.com/guisatoru/first_kotlin_project/assets/126101172/7b7850db-8c2d-4494-b8df-d9c4a4ee86d5" width=115><br><sub>João Yamamoto</sub>](https://github.com/guisatoru) | [<img loading="lazy" src="https://github.com/guisatoru/first_kotlin_project/assets/126101172/7b7850db-8c2d-4494-b8df-d9c4a4ee86d5" width=115><br><sub>Felipe Freitas</sub>](https://github.com/guisatoru) | [<img loading="lazy" src="https://github.com/guisatoru/first_kotlin_project/assets/126101172/7b7850db-8c2d-4494-b8df-d9c4a4ee86d5" width=115><br><sub>Victor Hugo</sub>](https://github.com/guisatoru) |
+| [<img loading="lazy" src="https://github.com/guisatoru/first_kotlin_project/assets/126101172/7b7850db-8c2d-4494-b8df-d9c4a4ee86d5" width=115><br><sub>Guilherme Satoru</sub>](https://github.com/guisatoru) | [<img loading="lazy" src="https://github.com/guisatoru/first_kotlin_project/assets/126101172/7b7850db-8c2d-4494-b8df-d9c4a4ee86d5" width=115><br><sub>Eduardo Osterloh</sub>](https://github.com/guisatoru) | [<img loading="lazy" src="https://github.com/guisatoru/first_kotlin_project/assets/126101172/7b7850db-8c2d-4494-b8df-d9c4a4ee86d5" width=115><br><sub>Felipe Martins</sub>](https://github.com/fmfelipe) | [<img loading="lazy" src="https://github.com/guisatoru/first_kotlin_project/assets/126101172/7b7850db-8c2d-4494-b8df-d9c4a4ee86d5" width=115><br><sub>João Yamamoto</sub>](https://github.com/JaoYamamoto) | [<img loading="lazy" src="https://github.com/guisatoru/first_kotlin_project/assets/126101172/7b7850db-8c2d-4494-b8df-d9c4a4ee86d5" width=115><br><sub>Felipe Freitas</sub>](https://github.com/Felipe-GFreitas) | [<img loading="lazy" src="https://github.com/guisatoru/first_kotlin_project/assets/126101172/7b7850db-8c2d-4494-b8df-d9c4a4ee86d5" width=115><br><sub>Victor Hugo</sub>](https://github.com/guisatoru) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
